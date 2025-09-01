@@ -1,0 +1,6 @@
+secretGenerator:
+  - name:db-passowrd
+    literals:
+      - passowrd:admin
+resources:
+  - postgres.yaml
